@@ -1,0 +1,11 @@
+/Users/dkrasjen/Projects/terning/terning/bin/Debug/netcoreapp2.1/terning.deps.json
+/Users/dkrasjen/Projects/terning/terning/bin/Debug/netcoreapp2.1/terning.runtimeconfig.json
+/Users/dkrasjen/Projects/terning/terning/bin/Debug/netcoreapp2.1/terning.runtimeconfig.dev.json
+/Users/dkrasjen/Projects/terning/terning/bin/Debug/netcoreapp2.1/terning.dll
+/Users/dkrasjen/Projects/terning/terning/bin/Debug/netcoreapp2.1/terning.pdb
+/Users/dkrasjen/Projects/terning/terning/obj/Debug/netcoreapp2.1/terning.csprojAssemblyReference.cache
+/Users/dkrasjen/Projects/terning/terning/obj/Debug/netcoreapp2.1/terning.csproj.CoreCompileInputs.cache
+/Users/dkrasjen/Projects/terning/terning/obj/Debug/netcoreapp2.1/terning.AssemblyInfoInputs.cache
+/Users/dkrasjen/Projects/terning/terning/obj/Debug/netcoreapp2.1/terning.AssemblyInfo.cs
+/Users/dkrasjen/Projects/terning/terning/obj/Debug/netcoreapp2.1/terning.dll
+/Users/dkrasjen/Projects/terning/terning/obj/Debug/netcoreapp2.1/terning.pdb

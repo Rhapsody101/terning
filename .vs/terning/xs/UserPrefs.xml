@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{708D124C-D6F4-462C-9A04-62F5476183C9}|Default">
+  <MonoDevelop.Ide.ItemProperties.terning PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="terning/Program.cs">
+    <Files>
+      <File FileName="terning/Program.cs" Line="11" Column="31" NotebookId="1" />
+    </Files>
+    <FloatingWindows>
+      <FloatingWindow WindowId="1" X="0" Y="67" Width="913" Height="1003">
+        <Files>
+          <File FileName="../../Desktop/GrundlagProH1/Grund/Grund/Program.cs" Line="29" Column="52" />
+        </Files>
+      </FloatingWindow>
+    </FloatingWindows>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
